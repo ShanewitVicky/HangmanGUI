@@ -1,0 +1,13 @@
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\bin\Debug\HangmanGUI.exe.config
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\bin\Debug\HangmanGUI.exe
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\bin\Debug\HangmanGUI.pdb
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.csprojAssemblyReference.cache
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.Form1.resources
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.Properties.Resources.resources
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.csproj.GenerateResource.cache
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.csproj.CoreCompileInputs.cache
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.exe
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.pdb
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.SinglePlayerWindow.resources
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.DoublePlayerWindowcs.resources
+C:\Users\Shane\source\repos\HangmanGUI\HangmanGUI\obj\Debug\HangmanGUI.WordsInput.resources
